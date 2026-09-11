@@ -1,0 +1,2 @@
+# Langturhjelpen
+For Langturhjelpen.no
